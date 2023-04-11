@@ -3,8 +3,6 @@
 ## python
 domain_standard.py 从url提取域名信息  
 check_ssl.py 根据域名获取域名证书的过期时间
-### 未完待续...
-
-
 ## java
 ## sh
+### 未完待续...
