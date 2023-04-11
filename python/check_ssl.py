@@ -9,6 +9,7 @@ import datetime
 from socket import socket
 from OpenSSL import SSL
 
+
 domain = "a.com"
 port = 443
 hostname = "www." + domain
